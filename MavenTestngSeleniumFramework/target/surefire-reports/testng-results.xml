@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-14T02:33:47 GMT" name="Suite" finished-at="2023-07-14T02:33:47 GMT" duration-ms="102">
+    <groups>
+    </groups>
+    <test started-at="2023-07-14T02:33:47 GMT" name="Test" finished-at="2023-07-14T02:33:47 GMT" duration-ms="102">
+      <class name="com.IBM.Basics.MyTest2">
+        <test-method signature="object1()[pri:0, instance:com.IBM.Basics.MyTest2@3835c46]" started-at="2023-07-14T02:33:47 GMT" name="object1" finished-at="2023-07-14T02:33:47 GMT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object1 -->
+        <test-method signature="object2()[pri:0, instance:com.IBM.Basics.MyTest2@3835c46]" started-at="2023-07-14T02:33:47 GMT" name="object2" finished-at="2023-07-14T02:33:47 GMT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object2 -->
+        <test-method signature="object3()[pri:0, instance:com.IBM.Basics.MyTest2@3835c46]" started-at="2023-07-14T02:33:47 GMT" name="object3" finished-at="2023-07-14T02:33:47 GMT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object3 -->
+      </class> <!-- com.IBM.Basics.MyTest2 -->
+      <class name="com.IBM.Basics.MyTest1">
+        <test-method signature="method1()[pri:0, instance:com.IBM.Basics.MyTest1@291ae]" started-at="2023-07-14T02:33:47 GMT" name="method1" finished-at="2023-07-14T02:33:47 GMT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="method2()[pri:0, instance:com.IBM.Basics.MyTest1@291ae]" started-at="2023-07-14T02:33:47 GMT" name="method2" finished-at="2023-07-14T02:33:47 GMT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method signature="method3()[pri:0, instance:com.IBM.Basics.MyTest1@291ae]" started-at="2023-07-14T02:33:47 GMT" name="method3" finished-at="2023-07-14T02:33:47 GMT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+      </class> <!-- com.IBM.Basics.MyTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

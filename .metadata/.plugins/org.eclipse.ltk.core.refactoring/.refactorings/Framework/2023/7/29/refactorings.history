@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Resources.Base&apos; to &apos;BaseTest&apos;&#x0D;&#x0A;- Original project: &apos;Framework&apos;&#x0D;&#x0A;- Original element: &apos;Resources.Base&apos;&#x0D;&#x0A;- Renamed element: &apos;Resources.BaseTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Base&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;Resources{Base.java[Base" matchStrategy="1" name="BaseTest" qualified="false" references="true" similarDeclarations="false" stamp="1690005027508" textual="false" version="1.0"/>
+</session>
